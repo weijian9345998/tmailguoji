@@ -55,7 +55,7 @@ header{
 	cursor:pointer;
 	}
 .head_figure li:hover{ color:rgba(255,51,153,1)}
-.head_figure li:hover  img{transform: scale(1.2)}
+.head_figure li:hover img{transform: scale(1.2)}
 .head_pic{
 	width:60px;
 	height:60px;
